@@ -1,2 +1,2 @@
 # Learning-github
-crated a repository for learning git hub 
+creted a repository for learning git hub 
